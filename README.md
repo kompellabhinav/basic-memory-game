@@ -67,7 +67,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [I have heard a lot about different frameworks that help develop websites quickly. I wanted to use any of those for the pre-work assignment, but they were pretty unclear, and there was not enough time to perfect them and use them in a real-time project. I wanted to know how those frameworks can be used to make web development more fun and more straightforward. This program offers to teach node.js, react.js, express.js and MongoDB. I am looking forward to implementing those in a project. Another thing I always wanted to know is how to make a fully functional website. Everything from front-end, back-end, hosting websites to making users create accounts on the websites and using them. There are a few of the questions I would like to find answers to in this program.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[I would refactor the code in both CSS and JavaScript if I had more time and knowledge. I feel refactoring is essential because it will reduce the file size and make the code loo clear to anyone looking at the code. Refactoring the code would also eliminate the redundant lines of code and help the pages load much faster. Another thing I wanted to do was add keyboard listeners for the game buttons. I have eight-game buttons to which I wanted to assign 1-8 number buttons from the keyboard. If you press button 1 on the keyboard, the first game button will play. The same thing will be repeated for all eight game buttons. That way, the user can use the keyboard instead of the mouse to play this game. If I had more time to work on the pre-work assignment, I would have figured out how to implement this on the website.]
+[I would refactor the code in both CSS and JavaScript if I had more time and knowledge. I feel refactoring is essential because it will reduce the file size and make the code loo clear to anyone looking at the code. Refactoring the code would also eliminate the redundant lines of code and help the pages load much faster. Another thing I wanted to do was add keyboard listeners for the game buttons. I have eight-game buttons to which I wanted to assign 1-8 number buttons from the keyboard. If you press button 1 on the keyboard, the first game button will play. The same thing will be repeated for all eight game buttons. That way, the user can use the keyboard instead of the mouse to play this game. If I had more time to work on the pre-work assignment, I would have figured out how to implement this on the website. I was also not successful in creating a game timer for the game. I have tried multiple ways and I got very close to making it work but I could not.]
 
 
 
@@ -78,7 +78,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Abhinav Kompella]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
