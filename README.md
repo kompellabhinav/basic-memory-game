@@ -36,14 +36,15 @@ The following **additional** features are implemented:
 
 - [X] User can select to length of the pattern anywhere between 6 and 18 to change the difficulty level
 - [X] User can choose the number of buttons in the game anywhere between 3 and 8 to change the difficulty level
+- [X] The page reloads itself automatically after every game so that a new pattern can be generated in the next game.
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/EC5cMHSEE2.gif)
-![](http://g.recordit.co/exPJ6B0JOB.gif)
-![](gif3-link-here)
-![](gif4-link-here)
+![](http://g.recordit.co/AcfALwMea2.gif)
+![](http://g.recordit.co/bqJ90KDpiG.gif)
+![](http://g.recordit.co/meFVBbFasN.gif)
+![](http://g.recordit.co/6sRbksExFX.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
