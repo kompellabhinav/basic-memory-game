@@ -4,7 +4,7 @@
 
 Submitted by: **ABHINAV KOMPELLA**
 
-Time spent: **7** hours spent in total
+Time spent: **9** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/sugar-inconclusive-quiet)
 
@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](http://g.recordit.co/EC5cMHSEE2.gif)
 ![](http://g.recordit.co/exPJ6B0JOB.gif)
-![](h)
+![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -73,7 +73,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/1d9cd726d9c64ef8b9bf4af392bc51b8?sharedAppSource=personal_library)
 
 
 ## License
